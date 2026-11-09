@@ -37,7 +37,7 @@ Most of my work sits between two worlds: **engineering models** that describe ho
 
 ### Independent work
 
-Outside my day job I design, build, and ship my own products. I like the full loop: choosing the problem, shaping the architecture, implementing it, releasing it, and doing the unglamorous maintenance that follows.
+Alongside my professional work I design, build, and ship my own products. I like the full loop: choosing the problem, shaping the architecture, implementing it, releasing it, and doing the unglamorous maintenance that follows.
 
 ### When I'm not writing code
 
