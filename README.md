@@ -51,6 +51,12 @@ I contribute bug fixes, integrations, and developer tooling improvements to open
 | [Semantica](https://github.com/semantica-agi/semantica) | Instantiate rule conclusions using matched variable bindings | [#2234](https://github.com/semantica-agi/semantica/pull/2234) |
 | [Dify Official Plugins](https://github.com/langgenius/dify-official-plugins) | Advertise structured-output support for OpenRouter JSON-schema models | [#4236](https://github.com/langgenius/dify-official-plugins/pull/4236) |
 
+**Accepted contributions (cherry-picked)**
+
+| Project | Contribution | Pull request / accepted commit |
+| :-- | :-- | :-- |
+| [Graphify](https://github.com/Graphify-Labs/graphify) | Fix call resolution through destructured CommonJS barrel requires; cherry-picked with authorship preserved and released in v0.9.105 | [#5104](https://github.com/Graphify-Labs/graphify/pull/5104) · [Accepted commit](https://github.com/Graphify-Labs/graphify/commit/bce80814d7983ec96b6c8fbd48838dc8740bf314) |
+
 **Open pull requests**
 
 | Project | Contributions | Pull requests |
