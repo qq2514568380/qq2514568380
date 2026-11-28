@@ -43,12 +43,16 @@ Alongside my professional work I design, build, and ship my own products. I like
 
 I contribute bug fixes, integrations, and developer tooling improvements to open-source projects. Each link below points to the actual pull request.
 
-**12 merged pull requests across 8 projects**, plus a cherry-picked contribution to Graphify.
+**16 merged pull requests across 10 projects**, plus a cherry-picked contribution to Graphify.
 
 **Merged contributions**
 
 | Project | Contribution | Pull request |
 | :-- | :-- | :-- |
+| [last30days](https://github.com/mvanhorn/last30days-skill) | Clarify that YouTube transcript lookup requires an existing caption track | [#1644](https://github.com/mvanhorn/last30days-skill/pull/1644) |
+| [Floci](https://github.com/floci-io/floci) | Enforce the 1 MiB EventBridge PutEvents request limit before publishing entries | [#9428](https://github.com/floci-io/floci/pull/9428) |
+| [DBeaver](https://github.com/dbeaver/dbeaver) | Strip trailing NUL characters from Sybase column defaults before generating DDL | [#43001](https://github.com/dbeaver/dbeaver/pull/43001) |
+| [FastGPT](https://github.com/labring/FastGPT) | Expose creation time in the dataset list API, including for existing records | [#8302](https://github.com/labring/FastGPT/pull/8302) |
 | [DBeaver](https://github.com/dbeaver/dbeaver) | Avoid unnecessary SQL line-prefix scans when matching batch delimiters | [#42999](https://github.com/dbeaver/dbeaver/pull/42999) |
 | [Plannotator](https://github.com/backnotprop/plannotator) | Prevent Call Flow timeouts in large repositories by limiting analysis to changed files when the full scope exceeds the budget | [#4039](https://github.com/backnotprop/plannotator/pull/4039) |
 | [Semantica](https://github.com/semantica-agi/semantica) | Preserve entities and relationships during Agno ingestion | [#2233](https://github.com/semantica-agi/semantica/pull/2233) |
@@ -68,7 +72,7 @@ I contribute bug fixes, integrations, and developer tooling improvements to open
 | :-- | :-- | :-- |
 | [Graphify](https://github.com/Graphify-Labs/graphify) | Fix call resolution through destructured CommonJS barrel requires; cherry-picked with authorship preserved and released in v0.9.105 | [#5104](https://github.com/Graphify-Labs/graphify/pull/5104) · [Accepted commit](https://github.com/Graphify-Labs/graphify/commit/bce80814d7983ec96b6c8fbd48838dc8740bf314) |
 
-Status checked on November 26, 2026. [All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aqq2514568380) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Aqq2514568380+is%3Amerged)
+Status checked on November 28, 2026. [All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aqq2514568380) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Aqq2514568380+is%3Amerged)
 
 ### When I'm not writing code
 
